@@ -16,6 +16,7 @@ const Characters = ({characters = []}) => {
                 </div>
             </div>
         ))}
+    <h5>Creado por German</h5>
     </div>
   )
 }
